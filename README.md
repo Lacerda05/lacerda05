@@ -1,7 +1,7 @@
 ### Olá sou Rodrigo Lacerda, estudante em programação e tecnologias!
 
 - 🔭 Transição de carreira
-- 🌱 Estudante de WebDeveloper
+- 🌱 Estudante de Database Experience
 
 <div align="center">
   <a href="https://https://github.com/Lacerda05">
